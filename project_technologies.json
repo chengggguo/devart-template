@@ -1,19 +1,15 @@
 {
     "technologies": {
-        "apis": [
-            "insert apis"
+        "languages": [
+            "dart"
         ],
         "platforms": [
             "arduino"
-        ],
-        "toolkits": [
-            "insert toolkits"
-        ]
-        "Languages": [
-            "dart"
         ]
     },
     "themes": [
-        "insert themes"
+        "installation",
+        "crticial design",
+        "interactive",
     ]
 }
