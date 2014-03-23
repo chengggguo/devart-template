@@ -1,9 +1,15 @@
 {
     "technologies": {
+        "apis": [
+            "insert apis"
+        ],
         "platforms": [
             "arduino",
             "dart",
             "c"
+        ],
+        "toolkits": [
+            "insert toolkits"
         ]
     },
     "themes": [
