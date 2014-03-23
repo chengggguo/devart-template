@@ -1,7 +1,6 @@
 
+![Installation View](../project_images/cover.jpg?raw=true "Installation View")
 
-![Example Image](../project_images/cover.jpg?raw=true "Example Image")
+![Three Parts](../project_images/3_parts.jpg?raw=true "Three Parts")
 
-![Example Image](../project_images/3_parts.jpg?raw=true "Example Image")
-
-![Example Image](../project_images/blade_details.jpg?raw=true "Example Image")
+![Propeller Details](../project_images/propeller_details.jpg?raw=true "Propeller Details")
