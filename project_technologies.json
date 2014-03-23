@@ -1,7 +1,8 @@
 {
     "technologies": {
         "languages": [
-            "dart"
+            "dart",
+            "c"
         ],
         "platforms": [
             "arduino"
