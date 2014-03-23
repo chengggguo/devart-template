@@ -1,11 +1,9 @@
 {
     "technologies": {
-        "languages": [
+        "platforms": [
+            "arduino",
             "dart",
             "c"
-        ],
-        "platforms": [
-            "arduino"
         ]
     },
     "themes": [
