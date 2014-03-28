@@ -3,8 +3,8 @@ We are very interested in the concept of seeing, the relationship between people
 So we hope the installation will 'notice' itself being watched, the more people are gathering, the more excited it will be, the tighter clockspring role and finally hit the soap surface.
 
 
-![Sensor Test](../project_images/arduino_test1?raw=true "Sensor Test")
-![Sensor Test](../project_images/arduino_test1?raw=true "Sensor Test")
+![Sensor Test](../project_images/arduino_test1.JPG?raw=true "Sensor Test")
+![Sensor Test](../project_images/arduino_test1.JPG?raw=true "Sensor Test")
 In terms of device, use infrared sensor switches.
 
 
