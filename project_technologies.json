@@ -5,6 +5,7 @@
         "platforms": [
             "Arduino",
             "Raspberry Pi",
+            "Google App Engine"
         ],
         "toolkits": [
             "Zepto"
