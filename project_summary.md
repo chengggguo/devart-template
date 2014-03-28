@@ -21,11 +21,10 @@ Meanwihle, Gibbon the long arm is controlled by live audience. When people appro
 [Example Link](http://www.google.com "Example Link")
 
 ## Example Code
-NOTE: Wrap your code blocks or any code citation by using ``` like the example below.
+### RESTFUL API
+GET /list_event
 ```
-function test() {
-  console.log("Printing a test");
-}
+[{"fields": {"showtime": "2014-03-28T23:07:00Z", "state": 0, "ctime": "2014-03-28T15:10:32Z", "showname": "1 2 3 4 5 6 7 8"}, "model": "gibbon.event", "pk": 1}]
 ```
 ## Links to External Libraries
 [Zepto.js](https://github.com/madrobby/zepto "Zepto.js")
@@ -37,7 +36,6 @@ function test() {
 ![Example Image](project_images/video5.jpeg?raw=true "Example Image")
 
 <iframe width="1280" height="720" src="//www.youtube.com/embed/FrHO2xYmlUo" frameborder="0" allowfullscreen></iframe>
-
-http://www.youtube.com/watch?v=FrHO2xYmlUo
+www.youtube.com/embed/FrHO2xYmlUo
 
 
