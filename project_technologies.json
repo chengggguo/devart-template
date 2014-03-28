@@ -1,7 +1,5 @@
 {
     "technologies": {
-        "apis": [
-        ],
         "platforms": [
             "Arduino",
             "Raspberry Pi",
@@ -14,6 +12,6 @@
     "themes": [
         "installation",
         "crticial design",
-        "interactive",
+        "interactive"
     ]
 }

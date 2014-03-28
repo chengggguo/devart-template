@@ -14,28 +14,29 @@ Meanwihle, Gibbon the long arm is controlled by live audience. When people appro
 
 
 
-## Context
-
-
-
-## Link to Prototype
-NOTE: If your project lives online you can add one or more links here. Make sure you have a stable version of your project running before linking it.
-
-[Example Link](http://www.google.com "Example Link")
-
 ## Example Code
-NOTE: Wrap your code blocks or any code citation by using ``` like the example below.
 ```
-function test() {
-  console.log("Printing a test");
-}
-```
-## Links to External Libraries
- NOTE: You can also use this space to link to external libraries or Github repositories you used on your project.
+RESTFUL API
 
+GET /list_event
+
+[{"fields": {"showtime": "2014-03-28T23:07:00Z", "state": 0, "ctime": "2014-03-28T15:10:32Z", "showname": "1 2 3 4 5 6 7 8"}, "model": "gibbon.event", "pk": 1}]
+```
+
+
+## Links to External Libraries
 [Zepto.js](https://github.com/madrobby/zepto "Zepto.js")
 
 ## Images & Videos
-NOTE: For additional images you can either use a relative link to an image on this repo or an absolute link to an externally hosted image.
-
 ![Example Image](project_images/cover.jpg?raw=true "Example Image")
+![Example Image](project_images/video3.jpeg?raw=true "Example Image")
+![Example Image](project_images/video4.jpeg?raw=true "Example Image")
+![Example Image](project_images/video5.jpeg?raw=true "Example Image")
+
+<iframe width="1280" height="720" src="//www.youtube.com/embed/FrHO2xYmlUo" frameborder="0" allowfullscreen></iframe>
+
+http://www.youtube.com/watch?v=FrHO2xYmlUo
+
+
+(special thanks to )[github.com/bung87](http://github.com/bung87 "github.com/bung87")
+
