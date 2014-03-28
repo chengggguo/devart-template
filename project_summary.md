@@ -40,7 +40,7 @@ Here is something wrong with project_technologies.json,so we list our technologi
     "themes": [
         "installation",
         "crticial design",
-        "interactive",
+        "interactive"
     ]
 }
 
@@ -59,4 +59,6 @@ Here is something wrong with project_technologies.json,so we list our technologi
 
 http://www.youtube.com/watch?v=FrHO2xYmlUo
 
+
+(special thanks to )[github.com/bung87](http://github.com/bung87 "github.com/bung87")
 
