@@ -28,8 +28,6 @@ Here is something wrong with project_technologies.json,so we list our technologi
 ```
 {
     "technologies": {
-        "apis": [
-        ],
         "platforms": [
             "Arduino",
             "Raspberry Pi",
