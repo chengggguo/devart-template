@@ -6,7 +6,13 @@
 - Yiyun Chen, github.com/yyccyy
 
 ## Description
-Insert a description containing about 100 to 150 words, including your motivation and the meaning behind your idea and execution. The Judges will be keen to know how your idea pushes the boundaries of code and technology. 
+
+'Gibbon-The Long Arm' is an interactive installation which composed of a swaying long pole, a shallow tank filled with soap liquid, it creates an experimental mechanic performance merges online and offline behaviour.
+As one of Robot Circus Series, Gibbon presents a two minutes show interactive with both online users and live audiences: 
+Soap film in Gibbon's tank is controlled by online users. It is built/ rebuilt out of the tank every two minutes, on the bottom of the tank, there are seven inlets to plump in airflow, make the soap film dynamic and waving. Online users can book a showtime and customize the sequence of airinlets through Google Calendar. The customized soap film show will be based on real time updated calendar schedule. 
+Meanwihle, Gibbon the long arm is controlled by live audience. When people approach and watch, spring of propeller stars winding up every two minutes, the speed of which is according to the number of people around. While the spring release, the unbalancing pole may or may not break the fragile waving film.
+
+
 
 ## Link to Prototype
 NOTE: If your project lives online you can add one or more links here. Make sure you have a stable version of your project running before linking it.
