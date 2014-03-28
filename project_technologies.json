@@ -1,7 +1,5 @@
 {
     "technologies": {
-        "apis": [
-        ],
         "platforms": [
             "Arduino",
             "Raspberry Pi",
