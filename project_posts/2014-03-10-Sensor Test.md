@@ -4,7 +4,7 @@ So we hope the installation will 'notice' itself being watched, the more people 
 
 
 ![Sensor Test](../project_images/arduino_test1.JPG?raw=true "Sensor Test")
-![Sensor Test](../project_images/arduino_test1.JPG?raw=true "Sensor Test")
+![Sensor Test](../project_images/arduino_test2.JPG?raw=true "Sensor Test")
 In terms of device, use infrared sensor switches.
 
 
