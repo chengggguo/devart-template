@@ -1,15 +1,13 @@
 {
     "technologies": {
         "apis": [
-            "insert apis"
         ],
         "platforms": [
-            "arduino",
-            "dart",
-            "c"
+            "Arduino",
+            "Raspberry Pi",
         ],
         "toolkits": [
-            "insert toolkits"
+            "Zepto"
         ]
     },
     "themes": [
