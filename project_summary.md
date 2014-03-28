@@ -1,4 +1,4 @@
-# Robot Circus No.1, The Long Arm
+# Gibbon The Long Arm
 
 
 ## Authors
