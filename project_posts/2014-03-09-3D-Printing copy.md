@@ -1,7 +1,7 @@
 Pringting out!
 
 ![Sensor](../project_images/3D4.JPG?raw=true "Sensor")
-![Sensor](../project_images/3D5.JPG?raw=true "Sensor")
+![Sensor](../project_images/3D5.jpg?raw=true "Sensor")
 Beautiful transparent texture!
 
 ![Sensor](../project_images/3D1.JPG?raw=true "Sensor")
